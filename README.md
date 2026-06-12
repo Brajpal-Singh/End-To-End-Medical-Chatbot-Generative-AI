@@ -4,25 +4,25 @@
 # How to run ?
 ### Steps:
 
-'''bash
+```bash
 Project repo: https://github.com/Brajpal-Singh/End-To-End-Medical-Chatbot-Generative-AI#
-'''
+```
 
 
 ### Step 01 - Create a conda enviroment after opening the repository
 
-'''bash
+```bash
 conda create -n medibot python=3.10 -y
-'''
+```
 
-'''bash
+```bash
 conda activate medibot
-'''
+```
 
 
 
 ### Step 02- install -r requirements
 
-'''bash
+```bash
 pip install -r requirement.txt
-''''
+```
